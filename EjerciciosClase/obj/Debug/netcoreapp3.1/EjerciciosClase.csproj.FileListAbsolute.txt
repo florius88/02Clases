@@ -1,0 +1,13 @@
+C:\Users\34639\source\repos\02Clases\EjerciciosClase\bin\Debug\netcoreapp3.1\EjerciciosClase.exe
+C:\Users\34639\source\repos\02Clases\EjerciciosClase\bin\Debug\netcoreapp3.1\EjerciciosClase.deps.json
+C:\Users\34639\source\repos\02Clases\EjerciciosClase\bin\Debug\netcoreapp3.1\EjerciciosClase.runtimeconfig.json
+C:\Users\34639\source\repos\02Clases\EjerciciosClase\bin\Debug\netcoreapp3.1\EjerciciosClase.runtimeconfig.dev.json
+C:\Users\34639\source\repos\02Clases\EjerciciosClase\bin\Debug\netcoreapp3.1\EjerciciosClase.dll
+C:\Users\34639\source\repos\02Clases\EjerciciosClase\bin\Debug\netcoreapp3.1\EjerciciosClase.pdb
+C:\Users\34639\source\repos\02Clases\EjerciciosClase\obj\Debug\netcoreapp3.1\EjerciciosClase.AssemblyInfoInputs.cache
+C:\Users\34639\source\repos\02Clases\EjerciciosClase\obj\Debug\netcoreapp3.1\EjerciciosClase.AssemblyInfo.cs
+C:\Users\34639\source\repos\02Clases\EjerciciosClase\obj\Debug\netcoreapp3.1\EjerciciosClase.csproj.CoreCompileInputs.cache
+C:\Users\34639\source\repos\02Clases\EjerciciosClase\obj\Debug\netcoreapp3.1\EjerciciosClase.dll
+C:\Users\34639\source\repos\02Clases\EjerciciosClase\obj\Debug\netcoreapp3.1\EjerciciosClase.pdb
+C:\Users\34639\source\repos\02Clases\EjerciciosClase\obj\Debug\netcoreapp3.1\EjerciciosClase.genruntimeconfig.cache
+C:\Users\34639\source\repos\02Clases\EjerciciosClase\obj\Debug\netcoreapp3.1\EjerciciosClase.csprojAssemblyReference.cache
